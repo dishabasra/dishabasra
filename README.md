@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Disha 👋
 
-<!--
-**dishabasra/dishabasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at Brandeis University.
 
-Here are some ideas to get you started:
+### 🦉 Hoot: your semester, sorted
+### 👉 [hoot.dishabasra.workers.dev](https://hoot.dishabasra.workers.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A student planner that keeps your whole semester in one place:
+
+- **Reads your syllabus**: paste it or upload the PDF, and Hoot pulls out class times, deadlines, grading and the attendance policy.
+- **Syncs with Moodle, Canvas and more**: new assignments and moved due dates show up on their own.
+- **Today view**: what's due next, what to start, and which class is up next.
+- **Grades and attendance**: see where you stand and what you need on the final.
+- **Works on your phone**: add it to your home screen like an app.
+- **Sign in with Google** to use it on every device.
+
+Built for BUS 131A.
